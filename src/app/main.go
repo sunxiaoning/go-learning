@@ -8,6 +8,7 @@ import (
 func main() {
 	fmt.Println("start...")
 	// basic.Type()
-	basic.Object()
+	basic.Controll()
+	// basic.Object()
 	fmt.Println("end...")
 }
