@@ -9,6 +9,7 @@ func main() {
 	fmt.Println("start...")
 	// basic.Type()
 	// basic.Controll()
-	basic.Object()
+	// basic.Object()
+	basic.Interface()
 	fmt.Println("end...")
 }
